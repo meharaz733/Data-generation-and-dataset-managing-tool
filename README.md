@@ -66,11 +66,11 @@ pip install -r requirement.txt
 
 ## Future Development   
 I plan to improve the scripts by adding a user-friendly interface for easy configuration, allowing users to:
-  -Set parameters (source folder, destination folder, image augmentations) via an interactive command-line or GUI interface.
-  -Backup datasets before augmentation or restructuring.
-  -Provide advanced augmentation options (e.g., color variations, cropping).
-  -Dynamically configure the dataset splitting ratios.
-  -Add error handling and logging for smoother execution.
+  - Set parameters (source folder, destination folder, image augmentations) via an interactive command-line or GUI interface.
+  - Backup datasets before augmentation or restructuring.
+  - Provide advanced augmentation options (e.g., color variations, cropping).
+  - Dynamically configure the dataset splitting ratios.
+  - Add error handling and logging for smoother execution.
 
 ## Contributing   
   -Feel free to submit a pull request or open an issue if you want to contribute to the project!

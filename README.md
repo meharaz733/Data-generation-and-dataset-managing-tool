@@ -40,16 +40,16 @@ pip install -r requirement.txt
 ## Usage   
 ### Image Generation with Augmentation Script:
 
-  -Provide the source folder containing the images.
-  -Set the target number of images for each class.
-  -The script augments the images that have fewer than the target count.
+  - Provide the source folder containing the images.
+  - Set the target number of images for each class.
+  - The script augments the images that have fewer than the target count.
 
 ### Dataset Restructuring Script:   
 
-  -Set the source directory where the dataset is currently stored.
-  -Set the destination directory where you want the structured dataset to be saved.
-  -The script will automatically create train, test, and validation folders.
-  -It then splits the images from each class into these folders based on your configured ratios.
+  - Set the source directory where the dataset is currently stored.
+  - Set the destination directory where you want the structured dataset to be saved.
+  - The script will automatically create train, test, and validation folders.
+  - It then splits the images from each class into these folders based on your configured ratios.
 
 
 

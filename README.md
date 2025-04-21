@@ -73,4 +73,4 @@ I plan to improve the scripts by adding a user-friendly interface for easy confi
   - Add error handling and logging for smoother execution.
 
 ## Contributing   
-  -Feel free to submit a pull request or open an issue if you want to contribute to the project!
+  - Feel free to submit a pull request or open an issue if you want to contribute to the project!
